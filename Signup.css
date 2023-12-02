@@ -1,0 +1,55 @@
+*{
+    box-sizing: border-box;
+    word-wrap: break-word;
+    
+}
+.form{
+    margin-top: 2vw;
+    display: flex;
+    justify-content: center;
+border-radius: 2vw;
+width:50vw;
+color:black;
+margin-left: 15vw;
+padding:2vw;
+background-color: rgb(233, 223, 211);
+}
+.he{
+    margin: 1vw;
+    font: size 2px;
+    padding: 1vw;
+    color:black
+}
+.la{
+    font: size 1vw;
+    margin:1vw;
+}
+.I{
+    width:40vw;
+    height:1.5vw;
+    border-radius: 2vh;
+}
+.enter{
+font-size: 1.5vw;
+margin:2vw;
+padding: 0.5vw;
+border-radius: 1vw;
+background-color: rgb(101, 149, 163);
+}
+.enter:hover{
+    background-color: gray;
+}
+.para{
+    font-size: 1.5vw;
+margin:0.5vw;
+padding: 0.1vw;
+border-radius: 1vw;
+background-color: rgb(101, 149, 163);
+}
+.par{
+    font-size: 1.5vw;
+    margin:1vw;
+    padding: 0.5vw;
+    border-radius: 1vw;
+    background-color:grey;
+}
